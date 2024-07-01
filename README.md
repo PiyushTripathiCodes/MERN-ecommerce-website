@@ -1,4 +1,4 @@
-# MERN Stack E-commerce Project - Frontend Repository
+# MERN Stack E-commerce Project - Frontend & Backend Repository
 
 MERN E-Commerce with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features
 
